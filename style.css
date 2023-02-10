@@ -7,14 +7,27 @@ h1{
     font-weight: bold;
     
 }
+span{
+  display: inline;
+  background-color: antiquewhite;
+  line-height: 1.75;
+}
 .blueText{
     color: blue
 }
 #boldText{
     font-weight: bold;
 }
+.whitebkgrdText{
+  display: inline;
+  background-color: antiquewhite;
+  line-height: 1.75;
+}
 body{
     background-image: url('lobster.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 *{
     font-family: Papyrus, fantasy;
