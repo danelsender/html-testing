@@ -69,7 +69,7 @@ span{
   height: auto !important;
   margin-bottom:5px; /* to match column gap */
   filter: grayscale(100%);
-  transition: filter 2s;
+  transition: filter 0.5s;
 }
 #gallery img:hover {
   filter:none;
